@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 34cf40ca91e31f740bd9323b8acf23b0
+timeCreated: 1538732401
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Yandex Sans Display
+  fontNames:
+  - Yandex Sans Display
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
